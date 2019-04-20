@@ -9,7 +9,22 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="basic-economic-problem-choice-and-the-allocation-of-resources">1 | Basic economic problem: choice and the allocation of resources</h1>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#basic-economic-problem-choice-and-the-allocation-of-resources">1 | Basic economic problem: choice and the allocation of resources</a>
+<ul>
+<li><a href="#the-basic-economic-problem">The Basic Economic Problem</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="basic-economic-problem-choice-and-the-allocation-of-resources">1 | Basic economic problem: choice and the allocation of resources</h1>
 <hr>
 <h2 id="the-basic-economic-problem">The Basic Economic Problem</h2>
 <ul>
@@ -38,7 +53,9 @@
 </li>
 </ul>
 <hr>
-</div>
+
+    </div>
+  </div>
 </body>
 
 </html>
