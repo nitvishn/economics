@@ -9,7 +9,37 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h1 id="the-allocation-of-resources-how-the-market-works-market-failure">2 | The allocation of resources: how the market works; market failure</h1>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#the-allocation-of-resources-how-the-market-works-market-failure">2 | The allocation of resources: how the market works; market failure</a></li>
+<li><a href="#economic-systems">Economic systems</a>
+<ul>
+<li><a href="#definitions">Definitions</a></li>
+<li><a href="#content">Content</a></li>
+</ul>
+</li>
+<li><a href="#demand-and-supply">Demand and supply</a>
+<ul>
+<li><a href="#definitions-1">Definitions</a></li>
+<li><a href="#content-1">Content</a></li>
+</ul>
+</li>
+<li><a href="#price-elasticity">Price elasticity</a></li>
+<li><a href="#market-failure">Market Failure</a>
+<ul>
+<li><a href="#definitions-2">Definitions</a></li>
+<li><a href="#content-2">Content</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="the-allocation-of-resources-how-the-market-works-market-failure">2 | The allocation of resources: how the market works; market failure</h1>
 <hr>
 <h1 id="economic-systems">Economic systems</h1>
 <h2 id="definitions">Definitions</h2>
@@ -300,7 +330,9 @@
 </li>
 </ol>
 <hr>
-</div>
+
+    </div>
+  </div>
 </body>
 
 </html>
