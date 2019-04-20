@@ -1,0 +1,11 @@
+<html>
+
+<script
+$files = scandir('/path/to/folder');
+sort($files);
+foreach($files as $file){
+   echo'<a href="/path/to/folder/'.$file.'">'.$file.'</a>';
+}
+</script>
+
+</html>
