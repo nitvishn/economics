@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>1. Basic economic problem: choice and the allocation of resources</title>
+  <title>Basic economic problem: choice and the allocation of resources</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -25,7 +25,6 @@
   <div class="stackedit__right">
     <div class="stackedit__html">
       <h1 id="basic-economic-problem-choice-and-the-allocation-of-resources">Basic economic problem: choice and the allocation of resources</h1>
-<hr>
 <h2 id="the-basic-economic-problem">The Basic Economic Problem</h2>
 <ul>
 <li>The basic economic problem:
